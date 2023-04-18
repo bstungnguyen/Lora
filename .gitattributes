@@ -42,3 +42,4 @@ koreandolllikeness_V10066.png filter=lfs diff=lfs merge=lfs -text
 koreandolllikeness_v20[[:space:]].png filter=lfs diff=lfs merge=lfs -text
 thaiUniversity_v10.png filter=lfs diff=lfs merge=lfs -text
 povFacesitting_v10.png filter=lfs diff=lfs merge=lfs -text
+Lora_v20.png filter=lfs diff=lfs merge=lfs -text
