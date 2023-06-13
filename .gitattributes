@@ -52,3 +52,6 @@ koreanDollLikeness.png filter=lfs diff=lfs merge=lfs -text
 MultipleGirlsGroup.png filter=lfs diff=lfs merge=lfs -text
 conceptLoongChinaDragon_v10.png filter=lfs diff=lfs merge=lfs -text
 pulledwedgie-06.png filter=lfs diff=lfs merge=lfs -text
+manguri.jpg filter=lfs diff=lfs merge=lfs -text
+msRealLegsUp_v10.jpg filter=lfs diff=lfs merge=lfs -text
+Nhatbinh_Lora-000009.png filter=lfs diff=lfs merge=lfs -text
